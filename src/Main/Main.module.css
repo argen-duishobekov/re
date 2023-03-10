@@ -1,0 +1,28 @@
+.mainPage {
+    
+}
+.mainPage nav {
+    display: flex;
+    justify-content: space-between;
+}
+.mainPage nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+.mainPage nav ul li {
+    margin-right: 10px;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #e3fc89;
+}
+
+.MainBlock {
+    display: flex;
+    justify-content: space-between;
+}
+.pic {
+    width: 250px;
+}
